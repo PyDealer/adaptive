@@ -1,1 +1,1 @@
-# adaptive
+# adaptive HTML+CSS
